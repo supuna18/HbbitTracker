@@ -1,0 +1,8 @@
+<!-- app/src/main/res/values/arrays.xml -->
+<resources>
+    <string-array name="hydration_intervals">
+        <item>Every 30 minutes</item>
+        <item>Every 60 minutes</item>
+        <item>Every 120 minutes</item>
+    </string-array>
+</resources>

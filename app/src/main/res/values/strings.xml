@@ -1,0 +1,57 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Habit Tracker</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title1">Track Habits</string>
+    <string name="onboarding_desc1">Stay consistent with your daily goals.</string>
+    <string name="onboarding_title2">Mood Journal</string>
+    <string name="onboarding_desc2">Log your feelings with emojis.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="onboarding_welcome">Welcome!</string>
+    <string name="onboarding_desc">Track your daily habits easily</string>
+
+    <!-- Login -->
+    <string name="login_title">Hey, Welcome!</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="btn_login">Login</string>
+    <string name="link_signup">Sign up</string>
+    <string name="no_account">Don’t have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_text">OR</string>
+    <string name="login_illustration_desc">An illustration for the login page</string>
+    <string name="google_login">Google Login</string>
+    <string name="facebook_login">Facebook Login</string>
+
+    <!-- Signup -->
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Sign up to get started</string>
+    <string name="hint_email_signup">Email</string>
+    <string name="hint_password_signup">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="link_login">Log in</string>
+    <string name="signup_policy">I agree with privacy policy</string>
+    <string name="signup_illustration_desc">An illustration for the signup page</string>
+    <string name="add_habit_content_desc">Add a new habit</string>
+    <string-array name="reminder_intervals">
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </string-array>
+
+
+    <!-- Toolbar Title Style -->
+    <style name="ToolbarTitleStyle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+</resources>
