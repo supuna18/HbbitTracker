@@ -18,16 +18,8 @@ A smart and efficient Android application designed to help users build good habi
 *   **Language:** Kotlin
 *   **IDE:** Android Studio
 *   **Local Storage:** Shared Preferences
-*   **Notifications:** AlarmManager & NotificationCompat
+*   **Notifications:** Reminders & NotificationCompat
 *   **UI Components:** XML Layouts, RecyclerView
-
-## 📸 Screenshots
-
-<!-- ඔයාගේ App එකේ Screenshots අරගෙන GitHub එකට Upload කරලා ඒ ලින්ක් මෙතනට දාන්න. නැත්නම් මේ කොටස මකලා දාන්න -->
-
-| Home Screen | Set Reminder | Notification |
-|:-----------:|:------------:|:------------:|
-| <img src="URL_HERE" width="200"> | <img src="URL_HERE" width="200"> | <img src="URL_HERE" width="200"> |
 
 ## 🚀 How to Run
 
@@ -45,7 +37,7 @@ A smart and efficient Android application designed to help users build good habi
 
 **[Supuna Anjana]**
 
-*   Connect on LinkedIn: [Your LinkedIn Profile Link]
+*   Connect on LinkedIn: www.linkedin.com/in/supun-anjana-bb26342a0.
 *   Check out my Portfolio: [Your Portfolio Link]
 
 ---
