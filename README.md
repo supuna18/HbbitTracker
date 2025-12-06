@@ -38,7 +38,7 @@ A smart and efficient Android application designed to help users build good habi
 **[Supuna Anjana]**
 
 *   Connect on LinkedIn: www.linkedin.com/in/supun-anjana-bb26342a0.
-*   Check out my Portfolio: ......
+*   Check out my Portfolio: https://supunanjana.vercel.app/
 
 ---
 ⭐️ **Don't forget to star this repo if you found it useful!**
